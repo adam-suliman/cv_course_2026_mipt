@@ -1,0 +1,9 @@
+# Local model cache for SuperPoint / SuperGlue
+data/hf_cache/
+
+# Ad-hoc photos not used by the final notebook
+data/tea_1.jpg
+data/tea_2.jpg
+
+# Temporary visualizations generated while solving the notebook
+data/tmp_*.png
